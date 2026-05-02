@@ -2,9 +2,9 @@
 layout: single
 author_profile: true
 permalink: /
+title: About Me
 ---
 
-## About me
 
 I am a Master's student in Mechatronics and Information Technology at Karlsruhe Institute of Technology (KIT), working at the intersection of embodied AI, robotics, and perception. 
 
@@ -22,7 +22,6 @@ I am interested in:
 
 
 ## Selected Projects
-
 ### ROS2-Based Autonomous Exploration and Object Retrieval
 
 Developed a ROS2-based robotic system for autonomous exploration and object retrieval on Boston Dynamics Spot. My primary contribution focused on the perception pipeline, including object detection and 3D localization.
