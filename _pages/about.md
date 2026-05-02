@@ -62,7 +62,7 @@ Developed an LLM-driven system for heuristic generation in robotic palletization
   <div id="earth-3d" style="width:120px;height:120px;margin:auto;"></div>
 
   <div id="earth-time" style="
-    margin-bottom:10px;
+    margin-top:10px;
     font-size:13px;
     color:#888;
     font-family: monospace;
