@@ -4,6 +4,8 @@ author_profile: true
 permalink: /
 ---
 
+## About me
+
 I am a Master's student in Mechatronics and Information Technology at Karlsruhe Institute of Technology (KIT), working at the intersection of embodied AI, robotics, and perception. 
 
 
