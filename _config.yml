@@ -12,20 +12,20 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Haoyu Gong"
 title_separator          : "-"
 name                     : &name "Haoyu Gong"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "M.Sc. Mechatronics student at KIT focusing on Embodied intelligence, Computer vision and Robotics"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://robbinseason.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "/HaoyuGong.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "RobbinSeason/HaoyuGong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/haoyugong.png""
+  avatar           : "/images/haoyugong.png"
   name             : "Haoyu Gong"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "M.Sc. Mechatronics student at KIT"
   location         : "Karlsruhe, Germany"
   employer         : "Karlsruhe Institute of Technology"
