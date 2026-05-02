@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Haoyu Gong | 龚皓宇"
+title                    : "Haoyu Gong"
 title_separator          : "-"
 name                     : &name "Haoyu Gong"
 description              : &description "M.Sc. Mechatronics student at KIT focusing on Embodied intelligence, Computer vision and Robotics"   # Update this with a general description of your site, this is the default if not overridden by a page
