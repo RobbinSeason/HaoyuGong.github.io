@@ -23,7 +23,7 @@ repository               : "RobbinSeason/HaoyuGong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/haoyugong.png"
+  avatar           : "haoyugong.png"
   name             : "Haoyu Gong"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "M.Sc. Mechatronics student at KIT"
