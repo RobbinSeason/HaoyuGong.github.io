@@ -73,10 +73,14 @@ document.addEventListener("DOMContentLoaded", function () {
     requestAnimationFrame(animate);
     earth.rotation.y += 0.003;
     renderer.render(scene, camera);
+    
+    updateTime();
   }
 
   animate();
 });
+  
+updateTime();
 </script>
 
 
