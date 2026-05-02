@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "haoyugong.png"
   name             : "Haoyu Gong"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         :  # example: "she/her"  
   bio              : "M.Sc. Mechatronics student at KIT"
   location         : "Karlsruhe, Germany"
   employer         : "Karlsruhe Institute of Technology"
