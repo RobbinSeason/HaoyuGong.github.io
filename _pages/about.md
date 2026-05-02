@@ -55,3 +55,7 @@ Developed an LLM-driven system for heuristic generation in robotic palletization
 **Machine Learning:** PyTorch, deep learning pipelines  
 **Generative AI:** LLM integration, prompt engineering, LoRA  
 **Tools:** Git, Linux, Docker  
+
+
+<div id="earth-3d" style="width:120px;height:120px;margin:40px auto;"></div>
+
