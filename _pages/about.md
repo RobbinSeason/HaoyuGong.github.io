@@ -57,5 +57,17 @@ Developed an LLM-driven system for heuristic generation in robotic palletization
 **Tools:** Git, Linux, Docker  
 
 
-<div id="earth-3d" style="width:120px;height:120px;margin:120px auto 5px auto;"></div>
+<div style="text-align:center; margin:70px auto 100px auto;">
+
+  <div id="earth-3d" style="width:120px;height:120px;margin:auto;"></div>
+
+  <div id="earth-time" style="
+    margin-bottom:10px;
+    font-size:13px;
+    color:#888;
+    font-family: monospace;
+    letter-spacing:1px;
+  "></div>
+
+</div>
 
