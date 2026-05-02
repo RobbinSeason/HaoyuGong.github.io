@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /
-title: Haoyu Gong
+title: "null"
 ---
 
 ## About me
